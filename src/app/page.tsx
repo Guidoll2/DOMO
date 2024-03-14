@@ -34,7 +34,7 @@ export default function Home() {
     <Image src='/docwhite.png' className="p-1 ml-1 w-8 h-8" width={1000} height={1000} alt="Icon"/>
   </div>
   <p className="text-black text-l font-bold text-center">Business & Product Concept</p>
-  <p className="text-gray-400 font-semibold mb-8 text-[13px] text-center leading-6 p-5">Analyse business and product concepts at Start-up Workshops or Ongoin Projects' Audits and prepare a viable and sensible product roadmap for achieving a perfect market fit</p>
+  <p className="text-gray-400 font-semibold mb-8 text-[13px] text-center leading-6 p-5">Analyse business and product concepts at Start-up Workshops or Ongoin Projects&apos; Audits and prepare a viable and sensible product roadmap for achieving a perfect market fit</p>
   <button className="border-[2px] px-4 py-1 text-xs md:text-l md:px-8 md:py-3 rounded border-gray-300 text-gray-400 font-bold">Learn more</button>
 </div>
 
